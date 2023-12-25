@@ -1,0 +1,15 @@
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\bin\Debug\net8.0\Utilizando Propriedades e Metodos.exe
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\bin\Debug\net8.0\Utilizando Propriedades e Metodos.deps.json
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\bin\Debug\net8.0\Utilizando Propriedades e Metodos.runtimeconfig.json
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\bin\Debug\net8.0\Utilizando Propriedades e Metodos.dll
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\bin\Debug\net8.0\Utilizando Propriedades e Metodos.pdb
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\Utilizando Propriedades e Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\Utilizando Propriedades e Metodos.AssemblyInfoInputs.cache
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\Utilizando Propriedades e Metodos.AssemblyInfo.cs
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\Utilizando Propriedades e Metodos.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\Utilizando Propriedades e Metodos.sourcelink.json
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\Utilizando Propriedades e Metodos.dll
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\refint\Utilizando Propriedades e Metodos.dll
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\Utilizando Propriedades e Metodos.pdb
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\Utilizando Propriedades e Metodos.genruntimeconfig.cache
+C:\Projetos\Desafios de codigo simples\Utilizando Propriedades e Metodos\obj\Debug\net8.0\ref\Utilizando Propriedades e Metodos.dll
